@@ -2,8 +2,9 @@
 
 This REST API used gotten from [HEROKU](https://asm-dev-api.herokuapp.com/api/v1/food).
 
-## The App is being hosted on:
+## The App is being hosted on the below link:
 
+ [click here](https://react-food-app-test.herokuapp.com/)
  
 
 ### `Full Description`
