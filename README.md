@@ -16,4 +16,8 @@ Button at the bottom of each sub-content
 
 You can return back to where all the foods are, by clicking on any side of the content
 
+### `Star Rating`
+
+Star Rating was used based on the total rating in each meal since we're working on Static Data
+
 
